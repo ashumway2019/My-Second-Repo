@@ -48,9 +48,7 @@ gross = input()
 
 print("Write a living thing.")
 thing = input()
-
-https://img1.etsystatic.com/195/1/6599209/il_570xN.1346995389_2njt.jpg
       
 ### MAD LIB ###
 
-print("It was a(n) " + adj1 + " and a dreary night. The wind was " + ingverb + " throught the trees. A faint voice in the air began whispering,'" + name + ".' I lifted my " + show + " covers and crawled toward my open window. Peering out into the " + adj2 + " darkness, suddenly I saw it! A monstrous, " + color + " bellied " + creature + " with " + number + bodyparts + " was " + ingverb2 + " down the street! The creature's " + bodyparts2 + " gaped wide open, and it swallowed everytthing in its path- from the neighbor's " + transportation + " to stray " + animals + ". And now it was heading straight for me! I let out a blood-" + ingverb3 + " scream! Horrified, I watched as the creature stopped dead in its tracks.")
+print("It was a(n) " + adj1 + " and a dreary night. The wind was " + ingverb + " throught the trees. A faint voice in the air began whispering,'" + name + ".' I lifted my " + show + " covers and crawled toward my open window. Peering out into the " + adj2 + " darkness, suddenly I saw it! A monstrous, " + color + " bellied " + creature + " with " + number + " " + bodyparts + " was " + ingverb2 + " down the street! The creature's " + bodyparts2 + " gaped wide open, and it swallowed everytthing in its path- from the neighbor's " + transportation + " to stray " + animals + ". And now it was heading straight for me! I let out a blood-" + ingverb3 + " scream! Horrified, I watched as the creature stopped dead in its tracks.")
